@@ -28,7 +28,7 @@ I am a passionate and dedicated junior full-stack web developer with a collabora
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-ffffff?style=flat&logo=notion&logoColor=000000)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ## 🚀 My Projects
 - ✈️ [ELVA](https://github.com/HackYourFutureProjects/c51-final-project-group-C) - A full-stack web application that helps travellers plan their trips effortlessly
